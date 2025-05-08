@@ -4,6 +4,6 @@ tags={
 	"Graphics"
 }
 picture="thumbnail.png"
-supported_version="v3.*"
+supported_version="v4.0.*"
 path="mod/restore_star_pins"
 remote_file_id="3360729596"
